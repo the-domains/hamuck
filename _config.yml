@@ -1,0 +1,28 @@
+name: hamuck
+favicon: null
+layout_spectrum: 0.08842754922807217
+typography_spectrum: 0.019511796301230788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3615520801395178
+  lightness: 0.4577942967880517
+  saturation: 0.3740300456993282
+  rhythmicContrast: 0.6579185766167939
+purpose: []
